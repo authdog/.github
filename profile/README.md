@@ -1,4 +1,8 @@
-# <img src="https://res.cloudinary.com/authdog/image/upload/v1661607716/Web/images/corporate/V2/Authdog_Full-Color_iam-streamlined_zmfrgm.svg" />
+
+<p align="center">
+<img width="400" src="https://res.cloudinary.com/authdog/image/upload/v1661607716/Web/images/corporate/V2/Authdog_Full-Color_iam-streamlined_zmfrgm.svg" />
+</p>
+
 
 Welcome to [Authdog](https://www.authdog.com), a company dedicated to providing powerful, easy-to-use tools for managing user connections and access control. Our flagship product, the Cloud Console, is a web-hosted SaaS platform that allows you to configure connections and gain visibility into events happening within your users' tenants.
 
