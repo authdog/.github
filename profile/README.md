@@ -8,7 +8,8 @@ Welcome to [Authdog](https://www.authdog.com), a company dedicated to providing 
 
 Our suite of products includes:
 
-- Hydra, which offers the ability to customize login forms to match your branding, support for multiple environments, and compatibility with custom domains.
+- Login Pages, which offers the ability to customize login forms to match your branding, support for multiple environments, and compatibility with custom domains.
+- ZeroTrust, our managed Policy and Rules networking gateway used to protect our other components (including Login Pages, Kraken and Shelter)
 - Kraken, which provides access to user identity data over the Edge network.
 - Shelter, which features a user-friendly Graph IDE and API for managing and accessing users' authorization information via the Edge network.
 
