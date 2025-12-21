@@ -15,5 +15,3 @@ Our suite of products includes:
 At Authdog, we believe in making our platform accessible to as many users as possible. That's why we offer a generous free tier, allowing you to get started with our tools without the need for a credit card. With our free tier, you can test out our platform and see for yourself how it can benefit your business. And when you're ready to take things to the next level, our affordable pricing plans make it easy to upgrade and access even more powerful features.
 
 With Authdog, you can easily and securely manage user connections and access control, giving you peace of mind and allowing you to focus on growing your business. Try our platform today and see the difference it can make!
-
-<a href="https://www.producthunt.com/posts/authdog?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-authdog" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=390268&theme=light" alt="Authdog - Accessible&#0032;Customer&#0032;Identity&#0032;&#0038;&#0032;Access&#0032;Management&#0032;Platform | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
