@@ -1,0 +1,36 @@
+name: PHP SDK Tests
+
+on:
+  push:
+    paths:
+      - 'sdk/php/**'
+      - '.github/workflows/php-tests.yml'
+  pull_request:
+    paths:
+      - 'sdk/php/**'
+
+jobs:
+  phpunit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          coverage: none
+          extensions: mbstring, curl, intl
+
+      - name: Install dependencies
+        working-directory: sdk/php
+        run: |
+          composer install --no-interaction --prefer-dist --no-progress
+
+      - name: Run PHPUnit
+        working-directory: sdk/php
+        run: |
+          ./vendor/bin/phpunit --configuration phpunit.xml --testdox
+
+

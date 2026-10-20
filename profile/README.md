@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="420" alt="Authdog" src="./logo-light.svg#gh-light-mode-only" />
-  <img width="420" alt="Authdog" src="./logo-dark.svg#gh-dark-mode-only" />
+  <img width="420" alt="Authdog — Agentic Identity, Access Control, Observability" src="./logo-light.svg#gh-light-mode-only" />
+  <img width="420" alt="Authdog — Agentic Identity, Access Control, Observability" src="./logo-dark.svg#gh-dark-mode-only" />
 </p>
 
 <p align="center">
-<b>Agentic Identity, Access Control, Observability.</b>
+<b>Authdog — Agentic Identity, Access Control, Observability.</b>
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
 <a href="https://status.authdog.com">Status</a>
 </p>
 
-Welcome to [Authdog](https://www.authdog.com) — identity for agents and workloads. Issue scoped credentials, decide what they can do, and investigate abuse with Observability.
+[Authdog](https://www.authdog.com) is Agentic Identity, Access Control, and Observability — scoped credentials for workloads, authorization models per environment, and Lidar as the identity SIEM.
 
-Agents are not users. Authdog gives every workload its own identity, one authorization model per environment, and Lidar as the identity SIEM. Humans still get a full CIAM stack: passwordless, passkeys, SSO, and SCIM. The platform runs on Cloudflare’s global edge across 330+ cities, with a median authentication latency of ~24ms.
+Issue scoped credentials, decide what agents can do, and investigate abuse with Observability. Agents are not users. Humans still get a full CIAM stack: passwordless, passkeys, SSO, and SCIM. The platform runs on Cloudflare’s global edge across 330+ cities, with a median authentication latency of ~24ms.
 
 ## Products
 
@@ -89,5 +89,19 @@ Yearly billing is **20% off**. No modules are locked behind higher tiers.
 ## Why teams choose Authdog
 
 Internal identity systems burn engineering time and still miss the SSO, SCIM, and agent controls that close enterprise deals. Authdog ships the full platform from day one — identities for humans and agents, access decisions in the same API, and Lidar on the identity stream — with a free million MAU so you can ship, then scale through Team, Pro, or Enterprise.
+
+## FAQ
+
+**What is Authdog?**
+Authdog is Agentic Identity, Access Control, and Observability — scoped credentials for workloads, authorization models per environment, and Lidar as the identity SIEM.
+
+**Who is Authdog for?**
+Workloads and agents get their own identity. Humans still get passwordless, passkeys, SSO, and SCIM.
+
+**Where does Authdog run?**
+On Cloudflare’s global edge across 330+ cities, with a median authentication latency of ~24ms.
+
+**What does Authdog cost?**
+The first 1 million monthly active users are free, on every module. Team starts at $19/month, Pro is $199/month, and Enterprise is custom.
 
 Try [Authdog](https://www.authdog.com) today.
